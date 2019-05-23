@@ -1,4 +1,7 @@
 <?php
    echo "Hola mundo\n";
    echo "Hace un buen día para estudiar TIC\n";
-?>
+   echo "Mi nombre es Carla y hoy hace un buen día\n";
+?> 
+
+
